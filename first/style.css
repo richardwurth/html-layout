@@ -1,0 +1,13 @@
+header {
+  background-color: rgb(80, 80, 80);
+  width: 1000px;
+  height: 90px;
+  margin: auto;
+  font-size: 60px;
+  color: rgba(237, 85, 91, 0);
+  padding: 20px;
+}
+
+body {
+  background-color: gray;
+}
