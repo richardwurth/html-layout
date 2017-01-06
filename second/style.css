@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.blue-box {
+  width: 33.33%;
+  background-color: #4a90e2;
+  height: 100%;
+  float: left;
+}
+.teal-box {
+  width: 33.33%;
+  background-color: #50e3c2;
+  height: 100%;
+  float: left;
+}
+.ugly-green-box {
+  width: 33.34%;
+  background-color: #b8e986;
+  height: 75%;
+  float: left;
+}
+.image-placeholder {
+  width: 33.34%;
+  background-color: #d0021b;
+  height: 25%;
+  float: left;
+}
+.placeholder-text {
+  font-family:sans-serif;
+  color: white;
+  font-size: 24px;
+  margin-top: 70px;
+  text-align: center;
+}
