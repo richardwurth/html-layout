@@ -1,0 +1,44 @@
+body {
+  width: 60vw;
+  height: 100vh;
+  background-color: white;
+  margin: auto;
+}
+
+.section {
+  height: 18%;
+}
+
+.gray {
+  height: 10%;
+  background-color: #d8d8d8;
+  padding: 10px 20px;
+}
+
+.blue_box {
+  background-color: #4a90e2;
+  width: 100px;
+  height: 100%;
+}
+
+.content {
+  padding: 30px 20px;
+  height:auto;
+  margin: auto;
+}
+
+.blue {
+  background-color: #4a90e2;
+}
+
+.teal {
+  background-color: #50e3c2;
+}
+
+.light-green {
+  background-color: #b8e986;
+}
+
+.yellow {
+ background-color: #f8e71c;
+}
